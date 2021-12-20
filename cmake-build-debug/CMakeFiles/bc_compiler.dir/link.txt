@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/bc_compiler.dir/main.cpp.o CMakeFiles/bc_compiler.dir/Node.cpp.o CMakeFiles/bc_compiler.dir/Evaluator.cpp.o CMakeFiles/bc_compiler.dir/BCUtils.cpp.o CMakeFiles/bc_compiler.dir/BC_FSM.cpp.o CMakeFiles/bc_compiler.dir/BC_State.cpp.o CMakeFiles/bc_compiler.dir/BC_FSM_ParsingResponse.cpp.o -o bc_compiler 
